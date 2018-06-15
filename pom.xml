@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>vn.edu.hocvienact</groupId>
+    <artifactId>act_website</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>act-web-logic</module>
+        <module>act-web</module>
+        <module>act-core-dto</module>
+        <module>act-core-data</module>
+        <module>act-core-dao</module>
+        <module>act-core-dao-impl</module>
+        <module>act-core-service</module>
+        <module>act-core-service-impl</module>
+        <module>act-core-utils</module>
+    </modules>
+
+    <properties>
+
+    </properties>
+    <dependencies>
+
+    </dependencies>
+
+
+</project>
